@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DfuSe">
+</Property><Property Name="Solution File" Value="E:\Rantopad\Other\DEMO\Sources\DfuSe.sln">
+</Property><Property Name="User Options File" Value="E:\Rantopad\Other\DEMO\Sources\DfuSe.suo">
+</Property><Property Name="Date" Value="2016年7月18日">
+</Property><Property Name="Time" Value="22:54">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DfuSe.sln" Description="File successfully backed up as E:\Rantopad\Other\DEMO\Sources\DfuSe.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="DfuSe.suo" Description="File successfully backed up as E:\Rantopad\Other\DEMO\Sources\DfuSe.suo.old">
+</Event><Event ErrorLevel="0" Project="DfuFileMgr" Source="DfuFileMgr\DfuFileMgr.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="DfuFileMgr" Source="DfuFileMgr\DfuFileMgr.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="DfuFileMgr" Source="DfuFileMgr\DfuFileMgr.vcproj" Description="Project file successfully backed up as 'E:\Rantopad\Other\DEMO\Sources\DfuFileMgr\DfuFileMgr.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="DfuFileMgr" Source="DfuFileMgr\DfuFileMgr.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="DfuFileMgr" Source="DfuFileMgr\DfuFileMgr.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DfuSeDemo" Source="DfuseDemo\DfuSeDemo.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="DfuSeDemo" Source="DfuseDemo\DfuSeDemo.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="DfuSeDemo" Source="DfuseDemo\DfuSeDemo.vcproj" Description="Project file successfully backed up as 'E:\Rantopad\Other\DEMO\Sources\DfuseDemo\DfuSeDemo.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="DfuSeDemo" Source="DfuseDemo\DfuSeDemo.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="DfuSeDemo" Source="DfuseDemo\DfuSeDemo.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="STDFUFiles" Source="STDFUFiles\STDFUFiles.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="STDFUFiles" Source="STDFUFiles\STDFUFiles.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="STDFUFiles" Source="STDFUFiles\STDFUFiles.vcproj" Description="Project file successfully backed up as 'E:\Rantopad\Other\DEMO\Sources\STDFUFiles\STDFUFiles.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="STDFUFiles" Source="STDFUFiles\STDFUFiles.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="STDFUFiles" Source="STDFUFiles\STDFUFiles.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="STDFUPRT" Source="STDFUPRT\STDFUPRT.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="STDFUPRT" Source="STDFUPRT\STDFUPRT.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="STDFUPRT" Source="STDFUPRT\STDFUPRT.vcproj" Description="Project file successfully backed up as 'E:\Rantopad\Other\DEMO\Sources\STDFUPRT\STDFUPRT.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="STDFUPRT" Source="STDFUPRT\STDFUPRT.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="STDFUPRT" Source="STDFUPRT\STDFUPRT.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DfuSe.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="DfuSe.sln" Description="No Conversion Required">
+</Event></UpgradeLog>
